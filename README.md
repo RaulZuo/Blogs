@@ -19,8 +19,8 @@
 
   ```yml
   favicon:
-    small: /images/favicon-16x16-next.png
-    medium: /images/favicon-32x32-next.png
+    small: /images/favicon.ico
+    medium: /images/favicon_middle.ico
   
   rss: /atom.xml
 
